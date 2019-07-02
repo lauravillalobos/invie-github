@@ -1,2 +1,4 @@
-# invie-github
-Sus mejores guitarras invie por laura villalobos
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
